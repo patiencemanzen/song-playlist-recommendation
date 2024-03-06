@@ -2,6 +2,8 @@
 
 Lucas De Oliveira, Chandrish Ambati, Anish Mukherjee
 
+Reference --> [from here](https://www.mongodb.com/developer/code-examples/python/song-recommendations-example-app/) 
+
 ## Introduction and motivation
 
 It all started with a dataset. In 2018, Spotify organized an Association for Computing Machinery (ACM) [RecSys Challenge](https://www.recsyschallenge.com/2018/) where they posted a [dataset of one million playlists](https://www.aicrowd.com/challenges/spotify-million-playlist-dataset-challenge), challenging participants to recommend a list of 500 songs given a user-created playlist.
